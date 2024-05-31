@@ -1,0 +1,14 @@
+<%= render @task %>
+
+<div class="container jumbotron bg-light">
+  <h1 class="display-4"><%= @task.first_name%> <%= @task.last_name%></h1>
+  <br/>
+  <p class="lead">My email and phone number are '<%= @task.email%>' and #<%= @task.phone%>. You can reach me on linkedIn through '<%= @task.linkedIn%>' and as well you can reach me on github through this '<%= @task.github%>'. It contains my projects and portforlio about me. <br/> Thank You</p>
+  <br/>
+  <div>
+    <%= link_to "Edit this task", edit_task_path(@task), class:"btn btn-secondary" %> |
+    <%= link_to "Back to tasks", tasks_path, class:"btn btn-success" %>
+  </div>
+  <br/>
+</div>
+
