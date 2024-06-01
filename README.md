@@ -1,24 +1,6 @@
-# README
+# Task Manager App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hello, my name is Emmanuel Arhinful, this is my first project on ruby on rails 
+I really love it and is very instersting to learn. Let's link up, you can find 
+me on linkedIn through https://www.linkedin.com/in/emmanuel-arhinful. 
+😀 😃
